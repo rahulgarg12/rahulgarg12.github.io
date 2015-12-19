@@ -3,10 +3,10 @@
   <channel>
     <title>Rahul Garg</title>
     <description>Personal blog and resume</description>
-    <link>http://rahulgarg12.github.io//</link>
-    <atom:link href="http://rahulgarg12.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Dec 2015 04:15:36 +0530</pubDate>
-    <lastBuildDate>Sun, 20 Dec 2015 04:15:36 +0530</lastBuildDate>
+    <link>http://rahulgarg12.github.io///</link>
+    <atom:link href="http://rahulgarg12.github.io///feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 20 Dec 2015 04:21:34 +0530</pubDate>
+    <lastBuildDate>Sun, 20 Dec 2015 04:21:34 +0530</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
   </channel>
