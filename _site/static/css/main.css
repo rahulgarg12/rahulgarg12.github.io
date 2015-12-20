@@ -167,11 +167,10 @@ body {
 }
 
 .skills{
-  width: 200px;
+  width: auto;
   max-width: 300px;
   text-align: center;
   padding-top: 300px;
-  padding-left: 50px;
 }
 
 /* Experience
