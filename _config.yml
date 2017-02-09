@@ -16,6 +16,8 @@ resume_contact_email:
   "rahul_garg@outlook.com"
 resume_header_contact_info: "New Delhi, India | +91 9717384893 | rahul_garg@outlook.com"
 
+resume_download_url:             "www."
+
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
@@ -40,6 +42,7 @@ resume_social_links:
   #resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/rahulgarg.delhi"
   resume_linkedin_url:          "https://www.linkedin.com/in/rahulgarg12"
+  resume_angel_url:             "https://angel.co/rahul-garg-5"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true

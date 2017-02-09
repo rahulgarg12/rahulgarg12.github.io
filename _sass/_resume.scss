@@ -36,7 +36,7 @@
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
-    margin: 1rem 0 2rem;
+    margin: 1rem 0 0.5rem;
   }
 
   .header-contact-info {
@@ -47,25 +47,35 @@
     color: inherit;
   }
 
+  .header-title {
+    @include sans;
+    font-weight: 300;
+    font-size: 1.50rem;
+    line-height: 2rem;
+    letter-spacing: -.05rem;
+    text-align: center;
+    margin: 0 0 1.5rem;
+
+    //@include media_larger_than_mobile {
+    //  float: left;
+    //  margin: 0;
+    //}
+  }
+
+  .header-contact-title {
+    @include sans;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 2rem;
+    letter-spacing: -.05rem;
+    text-align: center;
+    margin: 0 0 2rem;
+  }
+
   .title-bar {
     @include section_border;
     padding: .4rem 0;
     @include clearfix;
-
-    .header-title {
-      @include sans;
-      font-weight: 300;
-      font-size: 1.75rem;
-      line-height: 2rem;
-      letter-spacing: -.05rem;
-      text-align: center;
-      margin: 0 0 .5rem;
-
-      @include media_larger_than_mobile {
-        float: left;
-        margin: 0;
-      }
-    }
   }
 
   .executive-summary {
