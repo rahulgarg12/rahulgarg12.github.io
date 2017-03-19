@@ -1,0 +1,12 @@
+---
+layout: default
+title: Contacts List
+short-description: Contacts List Manager and Editer
+modal-id: 6
+img: contacts_list.png
+alt: image-alt
+company: 
+skills: Android, Eclipse IDE, Android SDK
+description: An android based application which manages the contacts and perform operations like adding a contact, deleting a contact, attaching email id and many more.
+
+---

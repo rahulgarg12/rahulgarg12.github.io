@@ -1,0 +1,12 @@
+---
+layout: default
+title: iBeacon for Sensoro
+short-description: A Beacon Explorer app for Sensoro
+modal-id: 3
+img: ibeacon.png
+alt: image-alt
+company: 
+skills: Swift, Sensoro SDK, Xcode, Apple Push Notifications
+description:  iBeacon is an iPhone based app that allows users to register beacon hardware with the app and conveniently view and interact with the listed beacons within range. This project is based on beacons provided by Sensoro.<br/></br>Some of the features of the app are<br/>   •   notify when a new beacon is entered and when listed beacon exit <br/>   •   list metrics like temperature, light intensity, etc on the iPhone<br/>   •   shows if beacon is in motion or not<br/>   •   monitors proximity of the beacons in range
+
+---

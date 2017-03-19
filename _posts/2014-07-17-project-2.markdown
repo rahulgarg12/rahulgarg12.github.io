@@ -1,0 +1,12 @@
+---
+layout: default
+title: Sportido Partner
+short-description: The app for Sportido Providers
+modal-id: 2
+img: sportido_partner.png
+alt: image-alt
+company: IDO Sport Pvt Ltd
+skills: Swift, RESTful APIs, Xcode, Google Firebase, AppsFlyer, Fabric SDK, CoreLocation, Google Maps, Apple Push Notifications
+description: Sportido Partner is a unique platform for different providers ranging from Venue Owners of Ground, Court, Pools etc to Gym owners, Academy Owners, Private Coaches and more who help facilitate any sport.<br/><br/>Sportido Partner app is one shop stop for all of these providers to manage their existing users, new bookings, expiring bookings, pending payments and much more.
+
+---

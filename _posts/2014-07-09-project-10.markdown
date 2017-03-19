@@ -1,0 +1,12 @@
+---
+layout: default
+title: Zip Locator
+short-description: Retrieve all info of supplied Pin Code and show it on Map
+modal-id: 10
+img: zip_locator.png
+alt: image-alt
+company: 
+skills: Objective-C, RESTful APIs, Xcode, CoreLocation, Maps
+description: An iPhone based application which gives all the information of the supplied Postal Code and display the location on Map.
+
+---

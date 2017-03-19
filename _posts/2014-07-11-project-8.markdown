@@ -1,0 +1,12 @@
+---
+layout: default
+title: Temperature Converter
+short-description: 
+modal-id: 8
+img: temperature_converter.png
+alt: image-alt
+company: 
+skills: Android, Eclipse IDE, Android SDK
+description: An Android based application which converts the temperature from Fahrenheit to Celsius and vice-versa.
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+title: ChitChat
+short-description: Messenger which works on P2P Network
+modal-id: 4
+img: chitchat.png
+alt: image-alt
+company:
+skills:  iOS, Objective-C, XCode, Multipeer Connectivity Framework
+description: An iPhone based application, which uses Multipeer Connectivity Framework, enables you to chat with people around you – even if there is no Internet connection or mobile phone coverage. Connected peers are able securely transmit messages, streams, or file resources to other devices without going through an intermediary web service.
+
+---

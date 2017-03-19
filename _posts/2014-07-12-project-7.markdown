@@ -1,0 +1,12 @@
+---
+layout: default
+title: Sunrise Radio FM
+short-description: Sports Discovery app that lets users play any sport anywhere
+modal-id: 7
+img: sunrise_radio_fm.png
+alt: image-alt
+company: Software Intern @ SO Infotch Pvt. Ltd.
+skills: iOS, Objective-C, UIKit, Cocoa Touch, Xcode
+description: One of the most popular radio station is now available on iPhone and iPad, playing a variety of music from Bollywood to Ghazals, Asian Pop to Bhangra and more.<br/><br/>   •   Listen to Sunrise Radio on your iPhone, iPad and iPod Touch<br/>   •   See a live stream of what you hear on-air, including songs, news, weather, travel and much more<br/>   •   Browse photo galleries and events<br/>   •   Interact with Sunrise Radio and call, email, text and Tweet, all directly from within the app
+
+---

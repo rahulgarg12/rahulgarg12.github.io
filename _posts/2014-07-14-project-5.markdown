@@ -1,0 +1,12 @@
+---
+layout: default
+title: DailyRun GPS
+short-description: Easy to track path, measure distance and burnt calories
+modal-id: 5
+img: dailyrun_gps.png
+alt: image-alt
+company:
+skills: Windows Mobile, Windows Phone Sdk, Bing Maps
+description: A very easy to use application specially designed for Windows Phone 8 which tracks the path and measures the running distance, as well as calories burned during this time. It measures the distance using phone's inbuilt GPS receiver.
+
+---
