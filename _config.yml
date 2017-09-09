@@ -59,7 +59,7 @@ address:
   - line: India
 
 # Credits content
-credits: 'rahul_garg@outlook.com | +91 9717384893'
+credits: '[rahul_garg@outlook.com](mailto:www.google.com) | rahul_garg@outlook.com | +91 9717384893'
 
 # Build settings
 markdown: kramdown
