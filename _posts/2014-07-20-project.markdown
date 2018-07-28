@@ -1,0 +1,12 @@
+---
+layout: default
+title: GoldCleats Pro
+short-description: Gain Exposure to Top Youth Talent!
+modal-id: 11
+img: golcleats_pro.png
+alt: image-alt
+company: Gold Cleats Global, Inc.
+skills: Swift, Objective C, RESTful APIs, Xcode, Linkedin SDK, Facebook SDK, Facebook Graph API, Realm Database
+description: Are you an agent, scout, or coach interested in finding new talent for your club, or agency portfolio but you are limited by lack of resources? With GoldCleats Pro, you can minimize the cost and time associated with scouting new players or marketing your existing players. Increase your chances of finding the next star from your fingertips with GoldCleats Pro application.<br/><br/>GoldCleats provides a unique online and mobile platform to enable every player to showcase their talent directly to the world. The objective of GoldCleats is to make sure that professionals see players that would not normally be accessible from the luxury of the home or office.<br/><br/>   •   Easy to use youth soccer platform<br/>   •   Access to 50,000+ (and GROWING) player profiles & highlight videos<br/>   •   Only you can message the players, so don’t worry about your inbox flooding<br/>   •   Keep an archive of your top players & videos<br/>   •   Grow your network with professionals and players with connections, followers, and secure messaging<br/>   •   Get Verified - Just like Instagram and Twitter<br/>   •   Personalize your profile with your info and portfolio<br/>   •   Use advanced search options to find specific players based on country, age, playing position, and more
+
+---
